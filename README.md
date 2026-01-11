@@ -10,8 +10,8 @@ Demo:
     npm run dev && php artisan serve
 ```
 # Preview
-![Preview](public/preview/<img width="1919" height="916" alt="Cuplikan layar 2026-01-11 123850" src="https://github.com/user-attachments/assets/60bf8a8d-c9a1-420d-9905-b25b5597ae8b" />
-)
+<img width="1919" height="916" alt="Cuplikan layar 2026-01-11 123850" src="https://github.com/user-attachments/assets/60bf8a8d-c9a1-420d-9905-b25b5597ae8b" />
+
 ![Screen Shot 2023-05-28 at 18 15 01](https://github.com/YusufLisawi/Shopi/assets/90868691/6f1b18fd-ade5-46e5-850d-91566f585faf)
 ![Screen Shot 2023-05-28 at 18 15 12](https://github.com/YusufLisawi/Shopi/assets/90868691/31f02ed2-bc14-41cb-9c6e-0d36b42e59e0)
 ![Screen Shot 2023-05-28 at 18 15 57](https://github.com/YusufLisawi/Shopi/assets/90868691/9bbcee17-37a9-43ad-9e35-4f68da7ed76f)
