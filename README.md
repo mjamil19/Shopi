@@ -16,7 +16,8 @@ Demo:
 
 <img width="1919" height="843" alt="Cuplikan layar 2026-01-11 123948" src="https://github.com/user-attachments/assets/0d626b47-4e54-43a7-8cc4-0ed2a0fff7da" />
 
-![Screen Shot 2023-05-28 at 18 15 57](https://github.com/YusufLisawi/Shopi/assets/90868691/9bbcee17-37a9-43ad-9e35-4f68da7ed76f)
+<img width="1919" height="897" alt="Cuplikan layar 2026-01-11 124047" src="https://github.com/user-attachments/assets/2e942ba3-d3be-455d-b5cf-812cfbb26bb6" />
+
 ![Screen Shot 2023-05-28 at 18 16 30](https://github.com/YusufLisawi/Shopi/assets/90868691/8b3a7374-a7ac-4661-900a-c06e89a50193)
 ![Screen Shot 2023-05-28 at 18 16 41](https://github.com/YusufLisawi/Shopi/assets/90868691/f1c3970f-f3a7-42d9-8ed2-620cbe3db6c3)
 ![Screen Shot 2023-05-28 at 18 16 51](https://github.com/YusufLisawi/Shopi/assets/90868691/fd9a2c85-53b2-4bde-ab0e-75b94841ea9a)
