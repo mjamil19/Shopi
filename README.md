@@ -20,12 +20,11 @@ Demo:
 
 <img width="1919" height="815" alt="Cuplikan layar 2026-01-11 124058" src="https://github.com/user-attachments/assets/249298ec-4db9-425c-8cfd-d896e7c47cdc" />
 
-![Screen Shot 2023-05-28 at 18 16 41](https://github.com/YusufLisawi/Shopi/assets/90868691/f1c3970f-f3a7-42d9-8ed2-620cbe3db6c3)
-![Screen Shot 2023-05-28 at 18 16 51](https://github.com/YusufLisawi/Shopi/assets/90868691/fd9a2c85-53b2-4bde-ab0e-75b94841ea9a)
-![Screen Shot 2023-05-28 at 18 17 05](https://github.com/YusufLisawi/Shopi/assets/90868691/d4684f14-c996-4a29-84ba-a2841102b63d)
-![Screen Shot 2023-05-28 at 18 17 22](https://github.com/YusufLisawi/Shopi/assets/90868691/ba5d6ab6-1897-499e-9a1e-25f2628ddf2e)
-![Screen Shot 2023-05-28 at 18 17 34](https://github.com/YusufLisawi/Shopi/assets/90868691/a3d403e9-0623-44c4-95e3-ff66f088b313)
-![Screen Shot 2023-05-28 at 18 18 01](https://github.com/YusufLisawi/Shopi/assets/90868691/9f61537b-79e4-4d85-a1ba-d0a8dbc7ef77)
-![Screen Shot 2023-05-28 at 18 18 09](https://github.com/YusufLisawi/Shopi/assets/90868691/4bf526a8-9207-4efc-8bce-ec7f203e547c)
-![Screen Shot 2023-05-28 at 18 18 24](https://github.com/YusufLisawi/Shopi/assets/90868691/82031c11-08c8-4718-8d11-6a927d336a05)
-![Screen Shot 2023-05-28 at 18 18 36](https://github.com/YusufLisawi/Shopi/assets/90868691/2c175a8d-5eb0-4fa7-a8a2-54f1919ffb25)
+<img width="1919" height="917" alt="Cuplikan layar 2026-01-11 124146" src="https://github.com/user-attachments/assets/52411d70-d976-40b0-9824-b843119a6fdd" />
+
+<img width="1919" height="917" alt="Cuplikan layar 2026-01-11 124146" src="https://github.com/user-attachments/assets/5635509e-8a73-4816-9c3e-f739b4698137" />
+
+<img width="1919" height="916" alt="Cuplikan layar 2026-01-11 124330" src="https://github.com/user-attachments/assets/73761eff-71e3-4705-8547-03155d909eee" />
+
+
+
